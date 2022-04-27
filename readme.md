@@ -47,7 +47,7 @@ This parameter file or data contained in each folder and their description are d
 
 
   ----------------------------------------------------------
-  Documentation for the Data folder
+  Documentation for the Results folder
   ----------------------------------------------------------
  
     This folder contains the raw data of the studied systems in this paper. 
