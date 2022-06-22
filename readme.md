@@ -5,7 +5,7 @@ Structural view on the role of TRD loop in regulating DNMT3A activity: a molecul
 Contact information:       Hong Zhao, Zhejiang University,
                            21919061@zju.edu.cn
 
-Associated publication:
+Associated publication: DOI：10.1039/d2cp02031a
 
 Link to publication: https://pubs.rsc.org/en/Content/ArticleLanding/2022/CP/D2CP02031A
 
